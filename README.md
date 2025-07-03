@@ -1,3 +1,3 @@
-# demo-repositry
-This is my first Git Repositry
+# demo-repository
+This is my first Git Reposit0ry
 Auther - Murari Kumar
